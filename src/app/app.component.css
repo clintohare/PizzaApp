@@ -1,0 +1,41 @@
+.banner {
+    height: 60px;
+    background-color: green;
+    width: 100%;
+    font-size:16pt;
+    top: 0;
+    left: 0;
+    text-align: center;
+    color: white;
+}
+
+.toppingBox {
+    float: right;
+    clear: both;
+}
+
+.mainContainer{
+    width:100%;
+    top:0;
+    left:0;
+}
+
+.spacer{
+    width:10px;
+}
+
+.header{
+    font-weight: 500;
+    font-size:14pt;
+}
+
+ul{
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+
+.plainButton{
+    border:none;
+    background-color: inherit;
+}
